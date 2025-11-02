@@ -1,3 +1,7 @@
+
+Download from releases: https://github.com/denigkt/CyberVal/releases/tag/val
+
+
 1. Run VALORANT
 2. open Cyber.exe
 3. wait for 2 beeps
